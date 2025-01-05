@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/ee/.config/nvim/lua/24/plugins'
+let g:netrw_dirhist_5='/home/ee/.config/nvim/lua/24'
+let g:netrw_dirhist_4='/home/ee/.config/nvim/lua'
+let g:netrw_dirhist_3='/home/ee/.config/nvim'
+let g:netrw_dirhist_2='/home/ee/.config/nvim/lua/24/plugins'
+let g:netrw_dirhist_1='/home/ee/.config/nvim/lua/24'
+let g:netrw_dirhist_0='/home/ee/.config/nvim/lua'
+let g:netrw_dirhist_9='/home/ee/.config/nvim'
+let g:netrw_dirhist_8='/home/ee/.config/nvim/lua/24/plugins'
+let g:netrw_dirhist_7='/home/ee/.config/nvim/lua/24'

@@ -1,0 +1,8 @@
+--- .gitignore
++++ .gitignore
+@@ -1 +0,0 @@
+-*.h
+--- .gitignore
++++ .gitignore
+@@ -1 +0,0 @@
+-*.a

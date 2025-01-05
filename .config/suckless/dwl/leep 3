@@ -1,0 +1,288 @@
+history
+i timeshift
+doas make clean install
+cp config.def.h config.h
+i pamixer
+v config.def.h
+cd .config/suckless/dwl/
+cat ../../swhkd/swhkdrc
+ls
+cd ../dwl
+pwd
+slstatus -s
+cd ../slstatus/
+q libwayland-cursor
+cat config.def.h
+btop
+patch < patches/autostart/autostart-0.7.patch
+cp -r ~/.srcc/basedless/dwl-patches/patches/autostart/ ./patches/
+cp ~/.srcc/basedless/dwl-patches/patches/autostart/ ./patches/
+ls patches/
+mv Downloads/wallpaperflare.com_wallpaper\(1\).jpg .syyssttteem/image1.jpg
+mkdir ~/.syyssttteem
+startw
+doas reboot
+reboot
+mv wallpaperflare.com_wallpaper.png /run/media/ee/VTOYEFI/grub/themes/ventoy/background.png
+unzip jpg2png.zip
+cd Downloads/
+cd
+ranger
+file ../.srcc/dotfiles/Documents/profile/pp.jpg
+q viewnoir
+r gpicview
+gpicview ../.srcc/dotfiles/Documents/profile/pp.jpg
+i gpicview
+q GPicView
+rm -r Dracula/ Mojave-Dark/ Orchis-Grey-Dark-Compact/ Skeuos-Brown-Dark/
+cd .themes/
+gsettings set org.gnome.desktop.interface gtk-theme Fluent-round-green-Dark-compact/
+mv Fluent-round-green-Dark-compact ../.themes/
+cat Fluent-round-green-Dark-compact/index.theme
+tar -xvf Fluent-round-green.tar.xz
+gsettings set org.gnome.desktop.interface gtk-theme Dracula
+mv Dracula/ ../.themes/
+cat Dracula/index.theme
+tar -xvf Dracula.tar.xz
+u
+yay -S wbg
+q wbg
+gsettings set org.gnome.desktop.interface gtk-theme Mojave-Dark
+mv Mojave-Dark/ ../.themes/
+cat Mojave-Dark/index.theme
+tar -xvf Mojave-Dark.tar.xz
+rm - *-Ske*
+rm - *.Ske*
+rm -r Skeuos-Brown-*
+cd ~/Downloads/
+gsettings reset org.gnome.desktop.interface gtk-theme
+
+gnome-disks
+i gnome-disk-utility
+gsettings set org.gnome.desktop.interface gtk-theme Skeuos-Brown-Dark
+cat Skeuos-Brown-Dark/index.theme
+cd -
+mv Skeuos-Brown-Dark ../.themes/
+tar -vxf 13-Skeuos-Brown-20220629.tar.xz
+rm -r Orchis-Grey*
+cat Orchis-Grey-Dark-Compact/gtk-3.0/gtk.css
+cat Orchis-Grey-Dark-Compact/gtk-3.0/
+cat Orchis-Grey-Dark-Compact/index.theme
+rm -r ../Nordic-darker-v40/
+rm -r Nordic-darker/
+mv Orchis-Grey-Dark-Compact/ ~/.themes/
+tar -vxf Orchis-Grey.tar.xz
+rm -r Nordic-darker.tar.xz
+gsettings set org.gnome.desktop.interface gtk-theme Nordic-darker
+fastfetch
+gsettings set org.gnome.desktop.interface gtk-theme Nordic
+cat Nordic-darker/index.theme
+mv Nordic-darker-v40/ ..
+cat Nordic-darker-v40/index.theme
+mv Nordic-darker-v40/Nordic-darker/ .
+mv ../Downloads/Nordic-darker/ ../Downloads/Nordic-darker-v40/ .
+mv ../Downloads/Nordic-darker/ ../Downloads/Nordic-darker-v40/
+mkdir .themes
+ls -lah
+tar -vxf Nordic-darker.tar.xz
+tar -vfx Nordic-darker.tar.xz
+tar -fvx Nordic-darker.tar.xz
+tar -fxv Nordic-darker.tar.xz
+ls'
+-lah'
+ls'
+dkdkdk
+
+
+
+
+
+
+
+'
+rm -r BetterDiscord-Linux.AppImage fusee-nano hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+r imv
+imv .srcc/dotfiles/Documents/profile/pp.jpg
+i imv
+q imv
+nsxiv .srcc/dotfiles/Documents/profile/pp.jpg
+v config.mk
+q libxcb
+i xorg-xwayland
+i xorg-wayland
+ls /sys/firmware/efi/
+i nsxiv
+i nxsiv
+rm -r dwl.c.orig
+v dwl.c
+doas poweroff
+sleep 3 ;set FILE /tmp/screenshot(date +"%Y-%m-%d%H-%M-%S").png; grim -g (slurp) $FILE; cat $FILE | wl-copy
+q radeon
+q ryzen
+doas ls
+su root
+sudo doas
+doas su
+doas
+cat /etc/doas.conf
+man doas
+man sudo
+i man
+doas light -U 4
+light -U 4
+light -A 4
+doas light -A 4
+cat ../.config/swhkd/swhkdrc
+yay -Rns swhkd-bin
+set FILE /tmp/screenshot(date +"%Y-%m-%d%H-%M-%S").png; grim -g (slurp) $FILE; cat $FILE | wl-copy
+grim -g "$(slurp)" /tmp/screenshot_$(date +"%Y-%m-%d_%H-%M-%S").png | wl-copy
+
+light
+i light
+yay -Rns light
+yay -S light
+doas sv status elogind
+sleep 3;set FILE /tmp/screenshot_(date +"%Y-%m-%d_%H-%M-%S").png; grim -g (slurp) $FILE; cat $FILE | wl-copy
+
+pkexec swhkd
+
+sudo swhkd
+doas swhkd
+swhkd
+mv ~/Downloads/swhkdrc .
+cd swhkd/
+mkdir swhkd
+cd .config/
+yay -S swhkd-bin
+yay -Ss swhkd
+ls /tmp
+set FILE /tmp/screenshot_(date +"%Y-%m-%d_%H-%M-%S").png; grim -g (slurp) $FILE; cat $FILE | wl-copy
+
+rm -r /tmp/screenshot_2024-12-29_1*
+./grim.sh
+cat .config/suckless/slstatus/config.def.h
+q xdg-desktop-portal
+q xdg-desktop-portal-wlr
+cat grim.sh
+cat BetterDiscord-Linux.AppImage
+i btop
+i xdg-desktop-portal xdg-desktop-portal-gtk
+ls profile/
+cd Documents/
+cd dotfiles/
+git clone https://github.com/gixousiyq/dotfiles
+git clone https://github.com/gixousiyq/dotfiles/tree/main/.config
+cd .srcc
+clear
+chmod +x grim.sh
+mv qAEZOTM.sh grim.sh
+i grim slurp wl-clipboard libnotify
+ه grim slurp wl-clipboard libnotify
+doas fusee-nano ./hekate_ctcaer_6.2.2.bin
+fusee-nano ./hekate_ctcaer_6.2.2.bin
+cd hekate/
+unzip -d hekate  hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+i unzip
+gvim
+fusee-nano --help
+yay -S fusee-nano
+i vim
+makepkg -si
+cd yay
+git clone https://aur.archlinux.org/yay.git
+cd .srcc/
+i Python3 python3-wx
+ip -c a
+wpa_cli
+doas rm -r /etc/udev/rules.d/50-switch.rules
+doas nvim /etc/udev/rules.d/50-switch.rules
+doas v /etc/udev/rules.d/50-switch.rules
+doas umount -R /mnt
+umount -R /mnt
+rm -r config.def.h.*
+cat config.def.h.rej
+cat config.def.h.orig
+wofi
+v config.h
+doas mount /dev/sda1 /mnt
+doasmount /dev/sda1 /mnt
+mount /dev/sda1 /mnt
+mount /dev/sda /mnt
+wofi --show drun
+i wofi
+exit
+dwl
+doas pacman -S wlroots libxkbcommon
+doas pacman -Rns wlroots
+chsh -s /usr/bin/fish
+doas pacman -S fish
+nvim foot/foot.ini
+cp -r /etc/xdg/foot/ .
+cp /etc/xdg/foot/ .
+fc-cache -fv
+nvim config.def.h
+nvim config.
+cd .config/suckless/slstatus/
+doas mount /dev/sda2 /mnt
+mount /dev/sda2 /mnt
+ls /run/runit/service
+doas timeshift-gtk
+timeshift-gtk
+doas pacman -S timeshift
+doas pacman -Rns elogind-runit
+doas pacman -Rns elogind
+id
+doas pacman -Rns seatd
+doas pacman -S seatd
+doas sv status seatd
+doas pacman -S elogind-runit
+export XDG_RUNTIME_DIR=/run/user/$(id -u)
+doas usermod -aG seat $USER
+doas usermod -aG seat ee
+getent group seat
+make
+doas pacman -S tllist
+doas pacman -S fcft foot
+doas pacman -S fcft goot
+doas pacman -Syu
+doas pacman-key --populate archlinux
+doas nvim /etc/pacman.conf
+nvim /etc/pacman.conf
+doas pacman -S artix-archlinux-support
+doas pacman -Ss archlinux
+doas pacman -S fcft
+patch < patches/naturalscrolltrackpad/naturalscrolltrackpad.patch
+patch < patches/bar/bar-0.7.patch
+cp -r ~/.srcc/basedless/dwl-patches/patches/bar/ ./patches/
+cp -r ~/.srcc/basedless/dwl-patches/patches/naturalscrolltrackpad/ ./patches/
+mkdir patches
+doas pacman -S wlroots wayland wayland-protocols firefox mesa libinput libxkbcommon pkg-config
+doas mv startw  /usr/local/bin/
+doas chmod +x startw
+doas chmod startw
+doas nvim startw
+cp -r dwl slstatus/ ~/.config/suckless/
+git clone https://git.suckless.org/slstatus
+git clone https://codeberg.org/dwl/dwl-patches
+git clone -b 0.7 https://codeberg.org/dwl/dwl.git
+cd basedless/
+mkdir basedless
+mkdir -p .srcc .config/suckless
+ping -c 4 google.com
+doas sv status wpa_supplicant
+doas nvim /etc/wpa_supplicant/wpa_supplicant.conf
+doas sv restart wpa_supplicant
+doas sv status dhcpcd
+doas ln -s /etc/runit/sv/dhcpcd/ /run/runit/service/
+poweroff
+doas cat /run/runit/service/wpa_supplicant/supervise/
+cat /run/runit/service/wpa_supplicant/supervise/
+cat /run/runit/service/wpa_supplicant/run
+doas rfkill unblock wifi
+rfkill unblock wifi
+doas sv up wpa_supplicant
+doas sv start wpa_supplicant
+doas ln -s /etc/runit/sv/seatd/ /run/runit/service/
+doas ln -s /etc/runit/sv/wpa_supplicant/ /run/runit/service/
+doas echo "echo 0 > /sys/class/backlight/amdgpu_bl1/brightness" >> /etc/rc.local
+echo "echo 0 > /sys/class/backlight/amdgpu_bl1/brightness" >> /etc/rc.local

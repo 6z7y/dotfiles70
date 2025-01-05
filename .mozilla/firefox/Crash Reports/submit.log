@@ -1,0 +1,1 @@
+[ERROR crashreporter::net::ping] failed to send legacy ping: failed to create telemetry crash ping: missing TelemetryClientId

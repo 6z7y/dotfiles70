@@ -1,0 +1,7 @@
+[default-routes]
+alsa_card.pci-0000_03_00.6:output:\oOut\c\sHeadphones={"channelVolumes":[0.011729, 0.011729], "channelMap":["FL", "FR"], "mute":false, "latencyOffsetNsec":0}
+alsa_card.pci-0000_03_00.6:output:\oOut\c\sSpeaker={"mute":false, "channelMap":["FL", "FR"], "channelVolumes":[0.175155, 0.175155], "latencyOffsetNsec":0}
+alsa_card.pci-0000_03_00.6:profile:HiFi\s(Headphones,\sMic1,\sMic2)=["[Out] Headphones"]
+alsa_card.pci-0000_03_00.6:profile:HiFi\s(Mic1,\sMic2,\sSpeaker)=["[Out] Speaker"]
+alsa_card.usb-Generic_AB13X_USB_Audio_20210926172016-00:output:analog-output={"latencyOffsetNsec":0, "channelVolumes":[0.054755, 0.054755], "channelMap":["FL", "FR"], "mute":false}
+alsa_card.usb-Generic_AB13X_USB_Audio_20210926172016-00:profile:output:analog-stereo+input:mono-fallback=["analog-output"]

@@ -1,0 +1,190 @@
+11:48:45.031: Using EGL/X11
+11:48:45.031: CPU Name: AMD Ryzen 5 5500U with Radeon Graphics
+11:48:45.031: CPU Speed: 1796.438MHz
+11:48:45.031: Physical Cores: 6, Logical Cores: 12
+11:48:45.031: Physical Memory: 15308MB Total, 14232MB Free
+11:48:45.031: Kernel Version: Linux 6.12.7-artix1-1
+11:48:45.031: Distribution: "Artix Linux" Unknown
+11:48:45.031: Session Type: wayland
+11:48:45.031: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.24.1
+11:48:45.032: Qt Version: 6.8.1 (runtime), 6.8.1 (compiled)
+11:48:45.032: Portable mode: false
+11:48:45.067: OBS 31.0.0 (linux)
+11:48:45.067: ---------------------------------
+11:48:45.068: ---------------------------------
+11:48:45.068: audio settings reset:
+11:48:45.068: 	samples per sec: 48000
+11:48:45.068: 	speakers:        2
+11:48:45.068: 	max buffering:   960 milliseconds
+11:48:45.068: 	buffering type:  dynamically increasing
+11:48:45.069: ---------------------------------
+11:48:45.069: Initializing OpenGL...
+11:48:45.231: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, renoir, LLVM 18.1.8, DRM 3.59, 6.12.7-artix1-1)
+11:48:45.231: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.3.2-arch1.1, shading language 4.60
+11:48:45.262: ---------------------------------
+11:48:45.262: video settings reset:
+11:48:45.262: 	base resolution:   1920x1080
+11:48:45.262: 	output resolution: 1280x720
+11:48:45.262: 	downscale filter:  Bicubic
+11:48:45.262: 	fps:               60/1
+11:48:45.262: 	format:            NV12
+11:48:45.262: 	YUV mode:          Rec. 709/Partial
+11:48:45.262: NV12 texture support enabled
+11:48:45.262: P010 texture support not available
+11:48:45.268: Audio monitoring device:
+11:48:45.268: 	name: Default
+11:48:45.268: 	id: default
+11:48:45.268: ---------------------------------
+11:48:45.280: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:48:45.293: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:48:45.305: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:48:45.305: Failed to initialize module 'decklink.so'
+11:48:45.503: [pipewire] No capture sources available
+11:48:45.538: v4l2loopback not installed, virtual camera not registered
+11:48:45.596: VAAPI: API version 1.22
+11:48:45.597: FFmpeg VAAPI H264 encoding supported
+11:48:45.603: FFmpeg VAAPI AV1 encoding not supported
+11:48:45.608: FFmpeg VAAPI HEVC encoding supported
+11:48:45.650: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+11:48:45.650: 
+11:48:45.650: NVENC not supported
+11:48:45.650: Failed to initialize module 'obs-nvenc.so'
+11:48:45.794: ---------------------------------
+11:48:45.794:   Loaded Modules:
+11:48:45.794:     text-freetype2.so
+11:48:45.794:     rtmp-services.so
+11:48:45.794:     obs-x264.so
+11:48:45.794:     obs-webrtc.so
+11:48:45.794:     obs-vst.so
+11:48:45.794:     obs-transitions.so
+11:48:45.794:     obs-qsv11.so
+11:48:45.794:     obs-outputs.so
+11:48:45.794:     obs-libfdk.so
+11:48:45.794:     obs-filters.so
+11:48:45.794:     obs-ffmpeg.so
+11:48:45.794:     linux-v4l2.so
+11:48:45.794:     linux-pulseaudio.so
+11:48:45.794:     linux-pipewire.so
+11:48:45.794:     linux-jack.so
+11:48:45.794:     linux-capture.so
+11:48:45.794:     linux-alsa.so
+11:48:45.794:     image-source.so
+11:48:45.794:     frontend-tools.so
+11:48:45.794:     decklink-output-ui.so
+11:48:45.794:     decklink-captions.so
+11:48:45.794: ---------------------------------
+11:48:45.794: ---------------------------------
+11:48:45.794: Available Encoders:
+11:48:45.794:   Video Encoders:
+11:48:45.794: 	- ffmpeg_svt_av1 (SVT-AV1)
+11:48:45.794: 	- ffmpeg_aom_av1 (AOM AV1)
+11:48:45.795: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+11:48:45.795: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+11:48:45.795: 	- obs_x264 (x264)
+11:48:45.795:   Audio Encoders:
+11:48:45.795: 	- ffmpeg_aac (FFmpeg AAC)
+11:48:45.795: 	- ffmpeg_opus (FFmpeg Opus)
+11:48:45.795: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+11:48:45.795: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+11:48:45.795: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+11:48:45.795: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+11:48:45.795: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+11:48:45.795: 	- libfdk_aac (libfdk AAC)
+11:48:45.795: ==== Startup complete ===============================================
+11:48:45.836: All scene data cleared
+11:48:45.836: ------------------------------------------------
+11:48:45.839: v4l2-input: Start capture from /dev/video2
+11:48:45.928: v4l2-input: Input: 0
+11:48:45.962: v4l2-input: Resolution: 1920x1080
+11:48:45.962: v4l2-input: Pixelformat: YUYV
+11:48:45.962: v4l2-input: Linesize: 3840 Bytes
+11:48:45.962: v4l2-input: Framerate: 60.00 fps
+11:48:45.966: v4l2-input: /dev/video2: select timeout set to 83333 (5x frame periods)
+11:48:45.967: Switched to scene 'Scene'
+11:48:45.968: ------------------------------------------------
+11:48:45.968: Loaded scenes:
+11:48:45.968: - scene 'Scene':
+11:48:45.968:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+11:48:45.968: ------------------------------------------------
+11:49:08.442: v4l2-input: /dev/video3 seems to not support video capture
+11:49:08.442: v4l2-input: /dev/video1 seems to not support video capture
+11:49:08.443: v4l2-input: Found device 'USB3 Video: USB3 Video' at /dev/video2
+11:49:08.541: v4l2-input: Found device 'HP TrueVision HD Camera: HP Tru' at /dev/video0
+11:49:08.542: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:08.542: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:08.543: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+11:49:08.543: v4l2-input: Pixelformat: Motion-JPEG (available)
+11:49:08.543: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+11:49:08.543: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+11:49:08.543: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+11:49:08.543: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+11:49:08.543: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:08.544: v4l2-input: Found input 'Camera 1' (Index 0)
+11:49:08.544: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+11:49:08.544: v4l2-input: Pixelformat: Motion-JPEG (available)
+11:49:08.544: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+11:49:08.544: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+11:49:08.544: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+11:49:08.544: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+11:49:08.545: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:11.282: v4l2-input: /dev/video2: Stopped capture after 1518 frames
+11:49:11.288: v4l2-input: Start capture from /dev/video0
+11:49:11.356: v4l2-input: Found input 'Camera 1' (Index 0)
+11:49:11.356: v4l2-controls: setting default for Power Line Frequency to 2
+11:49:11.356: v4l2-controls: setting default for Auto Exposure to 3
+11:49:11.356: v4l2-input: Input: 0
+11:49:11.356: v4l2-input: Pixelformat: Motion-JPEG (available)
+11:49:11.356: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+11:49:11.356: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+11:49:11.356: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+11:49:11.356: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+11:49:11.356: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+11:49:11.384: v4l2-input: Resolution: 640x360
+11:49:11.384: v4l2-input: Pixelformat: YUYV
+11:49:11.384: v4l2-input: Linesize: 1280 Bytes
+11:49:11.384: v4l2-input: Framerate: 30.00 fps
+11:49:11.385: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+11:49:11.385: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:11.566: v4l2-input: /dev/video0: select timed out
+11:49:11.566: v4l2-input: /dev/video0: failed to log status
+11:49:11.733: v4l2-input: /dev/video0: select timed out
+11:49:11.733: v4l2-input: /dev/video0: failed to log status
+11:49:13.780: v4l2-input: Found input 'Camera 1' (Index 0)
+11:49:13.781: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+11:49:13.781: v4l2-input: Pixelformat: Motion-JPEG (available)
+11:49:13.781: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+11:49:13.781: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+11:49:13.781: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+11:49:13.781: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+11:49:13.782: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:13.863: v4l2-input: /dev/video0: Stopped capture after 26 frames
+11:49:13.880: v4l2-input: Start capture from /dev/video2
+11:49:13.881: v4l2-input: Input: 0
+11:49:13.915: v4l2-input: Resolution: 1920x1080
+11:49:13.915: v4l2-input: Pixelformat: YUYV
+11:49:13.915: v4l2-input: Linesize: 3840 Bytes
+11:49:13.915: v4l2-input: Framerate: 60.00 fps
+11:49:13.919: v4l2-input: /dev/video2: select timeout set to 83333 (5x frame periods)
+11:49:21.964: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+11:49:21.974: v4l2-input: /dev/video2: Stopped capture after 483 frames
+11:49:21.980: v4l2-input: Start capture from /dev/video2
+11:49:21.981: v4l2-input: Input: 0
+11:49:22.014: v4l2-input: Resolution: 1920x1080
+11:49:22.014: v4l2-input: Pixelformat: YUYV
+11:49:22.014: v4l2-input: Linesize: 3840 Bytes
+11:49:22.014: v4l2-input: Framerate: 60.00 fps
+11:49:22.018: v4l2-input: /dev/video2: select timeout set to 83333 (5x frame periods)
+11:51:58.255: v4l2-input: /dev/video2: select timed out
+11:51:58.255: v4l2-input: /dev/video2: failed to log status
+11:51:58.317: v4l2-input: /dev/video2: failed to dequeue buffer
+11:51:58.317: v4l2-input: /dev/video2: Stopped capture after 9361 frames
+11:51:58.317: v4l2-helpers: unable to stop stream
+11:51:58.320: v4l2-input: Device /dev/video2 disconnected
+11:52:00.356: v4l2-input: Device /dev/video2 reconnected
+11:52:00.356: v4l2-input: Start capture from /dev/video2
+11:52:00.357: v4l2-input: Input: 0
+11:52:00.390: v4l2-input: Resolution: 1920x1080
+11:52:00.390: v4l2-input: Pixelformat: YUYV
+11:52:00.390: v4l2-input: Linesize: 3840 Bytes
+11:52:00.390: v4l2-input: Framerate: 60.00 fps
+11:52:00.395: v4l2-input: /dev/video2: select timeout set to 83333 (5x frame periods)

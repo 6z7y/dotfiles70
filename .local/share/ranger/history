@@ -1,0 +1,7 @@
+shell cat config.def.h
+shell nsxiv pp.jpg
+delete
+shell 
+rename colorscheme.lua
+l
+find aq

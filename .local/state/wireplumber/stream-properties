@@ -1,0 +1,9 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:application.name:WEBRTC\sVoiceEngine={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:media.role:Music={"channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:Chromium={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Firefox={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[0.399992, 0.399992]}
+Output/Audio:application.name:WEBRTC\sVoiceEngine={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:virt-manager={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
